@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://nancy-hub329.github.io/csb-rl8yci/static/js/main.6d1aa8b2.chunk.js",
+    "main.js.map": "https://nancy-hub329.github.io/csb-rl8yci/static/js/main.6d1aa8b2.chunk.js.map",
+    "runtime-main.js": "https://nancy-hub329.github.io/csb-rl8yci/static/js/runtime-main.a4fae83d.js",
+    "runtime-main.js.map": "https://nancy-hub329.github.io/csb-rl8yci/static/js/runtime-main.a4fae83d.js.map",
+    "static/js/2.e47c92b6.chunk.js": "https://nancy-hub329.github.io/csb-rl8yci/static/js/2.e47c92b6.chunk.js",
+    "static/js/2.e47c92b6.chunk.js.map": "https://nancy-hub329.github.io/csb-rl8yci/static/js/2.e47c92b6.chunk.js.map",
+    "index.html": "https://nancy-hub329.github.io/csb-rl8yci/index.html",
+    "static/js/2.e47c92b6.chunk.js.LICENSE.txt": "https://nancy-hub329.github.io/csb-rl8yci/static/js/2.e47c92b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4fae83d.js",
+    "static/js/2.e47c92b6.chunk.js",
+    "static/js/main.6d1aa8b2.chunk.js"
+  ]
+}
